@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ps02/static/js/main.fd91630e.js",
+    "index.html": "/ps02/index.html",
+    "main.fd91630e.js.map": "/ps02/static/js/main.fd91630e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fd91630e.js"
+  ]
+}
